@@ -73,4 +73,5 @@ $(function() {
   sr.reveal('.skills');
   sr.reveal('.experience', { viewFactor: 0.2 });
   sr.reveal('.education', { viewFactor: 0.15 });
+  sr.reveal('.featured-projects', { viewFactor: 0.1});
 });
